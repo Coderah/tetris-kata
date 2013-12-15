@@ -1,0 +1,19 @@
+{
+  "name": "tetris-kata",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Coderah/tetris-kata.git"
+  },
+  "author": "Alex Howard",
+  "readmeFilename": "README.md",
+  "gitHead": "07f32c015b8807c32f19602e13a702b566dfd45a",
+  "dependencies": {
+    "mocha": "~1.15.1"
+  }
+}
